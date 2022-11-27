@@ -24,4 +24,4 @@ for the encryption part, files from the assignment 2 were used. Some modificatio
 
 make sure not to change any of the following elements:
 	-ports.txt (they contain the available ports for the program, please do not change aither the name or the content of the file)
-	-/files/ (the folder containing the files to possibly share, please do not change its name or location, but feel free to add files)
+	-/files/ (the folder containing the files to possibly share, please do not change its name nor its location, but feel free to add files in it)
